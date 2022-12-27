@@ -1,0 +1,10 @@
+{
+  "firstName": "firstname",
+  "lastName": "Nguyen",
+  "gender": 0,
+  "dateOfBirth": "2001-12-07",
+  "joinedDate": "2019-11-01",
+  "typeStaff": "admin",
+  "userRole": "admin",
+  "location": "Hanoi"
+}
